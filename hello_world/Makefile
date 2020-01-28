@@ -1,5 +1,5 @@
 all:
-	gcc -fopenmp -o hello_id hello_id.c
+	gcc -fopenmp -o hello_world hello_world.c
 
 clean:
-	rm -f hello_id
+	rm -f hello_world
